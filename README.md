@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gjstirling
-- 👀 I’m interested in Formula One and Snowsports
+- 👀 I’m interested in 
 - 🌱 I’m currently learning Coding with Ruby
 - 💞️ I’m looking to collaborate on: Code Wars 
 - 📫 How to reach me: email

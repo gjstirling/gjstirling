@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gjstirling
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Coding with Ruby
+- 👀 I’m interested in: Snowsports, Formula one and Outdoor activities   
+- 🌱 I’m currently: Learning how to be a developer
 - 💞️ I’m looking to collaborate on: Code Wars 
 - 📫 How to reach me: email
 

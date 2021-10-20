@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gjstirling
+### 👋 Hi, I’m @gjstirling
 - 👀 I’m interested in: Snowsports, Formula one and Outdoor activities   
 - 🌱 I’m currently: Learning how to be a developer
 - 💞️ I’m looking to collaborate on: Code Wars 

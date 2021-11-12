@@ -1,5 +1,5 @@
 # About
-🌱 I’m currently: A Jobseeker looking for my first Junior Developer role 
+🌱 I’m currently: A Jobseeker looking for my first role as a Developer 
 <hr> 
 
 ## Junior Full Stack Developer

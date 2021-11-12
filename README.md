@@ -1,5 +1,5 @@
 # About
-🌱 I’m currently: A Jobseeker looking for my first role as a Developer, 
+🌱 I’m currently: A Jobseeker looking for my first role as a Developer, Find my CV [Here](https://github.com/gjstirling/CV/blob/master/README.md)
 
 <hr> 
 

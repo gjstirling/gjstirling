@@ -1,5 +1,5 @@
 # Junior Full Stack Developer
-🌱 I’m currently: A Jobseeker looking for my first role as a Developer, Find my CV [Here](https://github.com/gjstirling/CV/blob/master/README.md)
+🌱 I’m currently: A Jobseeker looking for my first role, Find my CV [Here](https://github.com/gjstirling/CV/blob/master/README.md)
 
 <hr> 
 

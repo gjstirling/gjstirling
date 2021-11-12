@@ -1,9 +1,9 @@
-# About
+# Junior Full Stack Developer
 🌱 I’m currently: A Jobseeker looking for my first role as a Developer, Find my CV [Here](https://github.com/gjstirling/CV/blob/master/README.md)
 
 <hr> 
 
-## Junior Full Stack Developer
+## About Me
 
 Recently I have moved into a career change completing a remote 16 week intensive bootcamp with Makers Academy. After spending the last five years living abroad working in the snow-sports industry I needed a new challenge and wanted a new career that allow me to grow professionally. This experience allowed me to understand how to become an effective learner. Accepting challenging tasks, using them as an opportunities to grow and improve. I am a strong believer in having a good working process by following best practices such as test driven development, isolation/single responsibility principle and working incrementally. Allowing my work to be clear, concise and fluid.   
 

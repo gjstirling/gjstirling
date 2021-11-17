@@ -1,6 +1,5 @@
 # Junior Full Stack Developer
-### Find my CV: [Here](https://github.com/gjstirling/CV/blob/master/README.md)<br>
-### Connect with me on: [LinkedIn](https://www.linkedin.com/in/graemejstirling/)
+### View my CV: [Here](https://github.com/gjstirling/CV/blob/master/README.md) &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; Connect with me on: [LinkedIn](https://www.linkedin.com/in/graemejstirling/)
 
 ### See my relevent Projects pinned below:  
 

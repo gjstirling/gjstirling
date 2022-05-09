@@ -1,5 +1,5 @@
 <h1 align="center"> Graeme Stirling </h1> 
-<h2 align="center"> Junior Full Stack Developer @ Miesh.io </h2> 
+<h2 align="center"> Junior Full Stack Developer</h2> 
 <h4 align="center"> Javascript - Node.js - Express - React </h4> 
 
 ## About

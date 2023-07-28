@@ -1,6 +1,5 @@
 <h1 align="center"> Graeme Stirling </h1> 
-<h2 align="center"> Full Stack Developer </h2> 
-<h4 align="center"> Scala - Ruby - Javascript - React - MongoDB - SQL </h4> 
+<h2 align="center"> Scala Developer </h2> 
 
 ## About
 **[Makers Academy Graduate](https://www.makers.tech/about-us/)** <br>

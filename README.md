@@ -1,5 +1,4 @@
-<h1 align="center"> Graeme Stirling </h1> 
-<h2 align="center"> Scala Developer </h2> 
+<img alt="Header" src="./header.jpeg">&nbsp;&nbsp;&nbsp;
 
 ## About
 **[Makers Academy Graduate](https://www.makers.tech/about-us/)** <br>

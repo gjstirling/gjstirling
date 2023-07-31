@@ -1,9 +1,8 @@
 <img alt="Header" src="./header.jpeg">&nbsp;&nbsp;&nbsp;
 
 ## About
-**[Makers Academy Graduate](https://www.makers.tech/about-us/)** <br>
+**[Graduate of Makers Academy October 2021](https://www.makers.tech/about-us/)** <br>
 **[Scala Developer @ Capgemini for HMRC](https://www.linkedin.com/in/graemejstirling/)** <br>
-**View my CV: [Here](https://github.com/gjstirling/CV/blob/master/README.md)**  
-**Team/Individual Projects pinned below:** 
+**[Click to view my CV:](https://github.com/gjstirling/CV/blob/master/README.md)**  
 
 

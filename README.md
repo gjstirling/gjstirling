@@ -1,4 +1,4 @@
-<img src="https://github.com/gjstirling/gjstirling/blob/gjstirling-patch-1/images/banner.png" alt="banner">
+<img src="https://github.com/gjstirling/gjstirling/blob/main/images/banner.png" alt="banner">
 
 
 <h1 align="center">Hi 👋, I'm Graeme Stirling </h1>
@@ -8,7 +8,7 @@
   <tr>
     <td style="text-align:right;">
       <a href="https://github.com/gjstirling/cv">
-        <img src="https://github.com/gjstirling/gjstirling/blob/gjstirling-patch-1/images/cv%20(1).png" alt="Github CV" style="width: 100px; height: auto;">
+        <img src="https://github.com/gjstirling/gjstirling/blob/main/images/cv%20(1).png" alt="Github CV" style="width: 100px; height: auto;">
       </a>
     </td>
     <td style="text-align:left; padding-left: 20px;">

@@ -1,3 +1,6 @@
+<img src="https://github.com/gjstirling/gjstirling/blob/gjstirling-patch-1/images/banner.png" alt="banner">
+
+
 <h1 align="center">Hi 👋, I'm Graeme Stirling </h1>
 <h3 align="center"> Scala and Javascript Software Developer 🌟.</h3>
 <div align="center">

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Graeme Stirling </h1>
 <h3 align="center"> Scala and Javascript Software Developer 🌟.</h3>
+<div align="center">
 
-<table style="width:100%; border: 0;">
   <tr>
     <td style="text-align:right;">
       <a href="https://github.com/gjstirling/cv">
@@ -14,7 +14,8 @@
       </a>
     </td>
   </tr>
-</table>
+
+</div>
 
 
 
